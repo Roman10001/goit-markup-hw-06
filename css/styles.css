@@ -310,6 +310,28 @@ body {
    color: var(--modal-color);
 }
 
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Cтилізація модального вікна<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+.modal-text{
+   margin-top: 2px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.15;
+
+  color: var(--secondary-text-color);
+}
+.form-field {
+   position: relative;
+   display: block;
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-bottom: 28px;
+ }
+ .form-field.coment {
+   margin-bottom: 20px;
+ }
+
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Стилізація розділу з перевагами <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .advantages-section {
    padding-bottom: 0;
