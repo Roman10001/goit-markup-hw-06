@@ -252,8 +252,8 @@ h2.titel {
   padding-bottom: 28px;
 }
 .form-field.coment {
-  /* margin-bottom: 20px; */
-  padding-bottom: 20px;
+  margin-bottom: 20px; 
+  /* padding-bottom: 20px; */
 }
 
 .form-input {
@@ -311,7 +311,7 @@ h2.titel {
 
 .modal-box {
   text-align: center;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 .contract {
   margin-bottom: 30px;
