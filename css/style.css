@@ -690,18 +690,20 @@ h2.titel {
   color:var(--logo-down-color);
 }
 
-.mail-field {position: relative;
+.mail-field {
+  position:relative ;
   
 }
 
-.mail-label {position: absolute;
-top: 50%;
+.mail-label {
+position:absolute ;
+top: 0%;
 left: 16px;
-transform: translateY(50%);
+transform: translateY(0%);
 transition: transform  250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.mail-input:focus + .mail-label, .mail-input:not(:placeholder-shown) + .mail-label {transform: translateY(60px) scale(1.2);
+.mail-input:focus + .mail-label, .mail-input:not(:placeholder-shown) + .mail-label {transform: translateY(70px) scale(1.2);
 }
 
 /* Портфолио */
