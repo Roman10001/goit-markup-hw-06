@@ -292,7 +292,7 @@ h2.titel {
   position: absolute;
   top: 50%;
   left: 15px;
-  transform: translateY(-50%);
+  transform: translateY(-70%);
 }
 .coment-input {
   resize: none;
